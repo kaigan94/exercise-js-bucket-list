@@ -1,6 +1,6 @@
 # Bucket List
 
-In this assignment you are going to create your bucket list but in a different way than you might be used it. It's _**forbidden**_ in this assignment to add elements, content, styling or anything else, inside your HTML document or CSS files. All of this will be handled through vanilla JavaScript.
+In this assignment you are going to create your bucket list but in a different way than you might be used in. It's _**forbidden**_ in this assignment to add elements, content, styling or anything else, inside your HTML document or CSS files. All of this will be handled through vanilla JavaScript.
 
 The purpose of the assignment is to learn how we can create basic, and more advanced content, solely with JavaScript.
 
@@ -10,7 +10,7 @@ To get you started you are given a basic template of HTML and CSS code, but this
 
 1. Create a `<p>` using the `createElement` method. When you have a reference to your new element, change its `innerText` to something that you would like to have on your bucket list, and then append it to the DOM with the `appendChild` method. Where does this element go? How can you get it do be added directly after the already existing `<p>`.
 
-2. Create another `<p>` with an item you would like to have on you bucket list. This time add it to the DOM, right after your existing `<p>`-tags with the help of the `insertAdjecentElement` method. This method accepts a position argument. Which value should that argument have?
+2. Create another `<p>` with an item you would like to have on your bucket list. This time add it to the DOM, right after your existing `<p>`-tags with the help of the `insertAdjecentElement` method. This method accepts a position argument. Which value should that argument have?
 
    - afterbegin
    - afterend
